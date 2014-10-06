@@ -1,4 +1,5 @@
 ## F3 Sugar
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/kigamuka/F3-Sugar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 some custom helpers and plugins for the PHP Fat-Free Framework
 
 ### Cortex
